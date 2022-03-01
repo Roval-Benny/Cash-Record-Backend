@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37161c16-d94c-4eac-8bbf-0af59cc84073": {
+      "ProjectGuid": "37161c16-d94c-4eac-8bbf-0af59cc84073",
+      "DisplayName": "Cash Record Backend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
