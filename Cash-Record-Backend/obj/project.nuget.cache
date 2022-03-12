@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HK84wo8y3YwMnqzYynSb0SE7AD77ymgUhb83tKT5Uzto+JVfBNhQFbYy/w6vXx8iFdYTrXGcl0xBMH1BRJishw==",
+  "dgSpecHash": "KiFDD6Xr+/Ago0L+1jXNmNMhBFMuh3N7HQlLjXRNeFxq56JDmad72xnsppkJ92uR6RZbtTQTD23+eRsUljzQUw==",
   "success": true,
-  "projectFilePath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash Record Backend\\Cash Record Backend.csproj",
+  "projectFilePath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash-Record-Backend\\Cash-Record-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roval Benny\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Roval Benny\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.16\\microsoft.aspnetcore.authentication.jwtbearer.3.1.16.nupkg.sha512",

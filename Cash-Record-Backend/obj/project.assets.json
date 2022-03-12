@@ -5993,11 +5993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash Record Backend\\Cash Record Backend.csproj",
-      "projectName": "Cash Record Backend",
-      "projectPath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash Record Backend\\Cash Record Backend.csproj",
+      "projectUniqueName": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash-Record-Backend\\Cash-Record-Backend.csproj",
+      "projectName": "Cash-Record-Backend",
+      "projectPath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash-Record-Backend\\Cash-Record-Backend.csproj",
       "packagesPath": "C:\\Users\\Roval Benny\\.nuget\\packages\\",
-      "outputPath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash Record Backend\\obj\\",
+      "outputPath": "D:\\UST Training\\Project Training\\Cash Record\\Cash Record Backend\\Cash-Record-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
